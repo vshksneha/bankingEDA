@@ -23,9 +23,13 @@ bankingEDA/
 🔎 Analysis Performed
 
 ✔️ Data Cleaning & Preprocessing
+
 ✔️ Summary Statistics & Profiling
+
 ✔️ Data Visualization (Correlations, Trends, Distributions)
+
 ✔️ SQL Queries to Extract Insights
+
 ⏳ Power BI Dashboard for Interactive Analytics (Coming Soon)
 
 📊 Dataset
@@ -37,29 +41,23 @@ Description: Banking records containing Customer Demographics, Transactions, and
 🚀 Future Improvements
 
 ✨ Add Power BI Dashboard with KPIs & Visual Reports
+
 ✨ Advanced ML Modeling (Customer Segmentation, Risk Scoring)
+
 ✨ Automated SQL Query Pipelines
 
 📝 Setup & Usage
-
-Clone the Repository
-
+🔹 Clone the Repository
 git clone https://github.com/vshksneha/bankingEDA.git
-cd bankingEDA
+🔹cd bankingEDA
 
-
-Install Dependencies
-
+🔹 Install Dependencies
 pip install -r requirements.txt
 
-
-Run Jupyter Notebook
-
+🔹 Run Jupyter Notebook
 jupyter notebook banking.ipynb
 
-
-(Coming Soon) Open Power BI Dashboard
-
+🔹 (Coming Soon) Open Power BI Dashboard
 📌 Project Status
 
 ✅ Python EDA Completed
@@ -67,5 +65,3 @@ jupyter notebook banking.ipynb
 ✅ SQL Queries Included
 
 ⏳ Power BI Dashboard In Progress
-
-🔥 This project is a Work in Progress — Stay tuned for updates with an interactive Power BI Dashboard!
